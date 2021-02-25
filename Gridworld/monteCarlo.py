@@ -67,4 +67,4 @@ print('Action-Value function for all states and actions:')
 print(Q)
 
 # Run through the grid world following the learnt policy
-env.playGame(Q)
+env.startGrid(Q)
