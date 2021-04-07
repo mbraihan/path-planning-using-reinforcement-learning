@@ -1,0 +1,12 @@
+numpy
+scipy
+matplotlib
+# tensorflow
+opencv-python
+opencv-contrib-python
+gym
+pygame
+keras-rl
+ptan
+tensorboardX
+threeviz
